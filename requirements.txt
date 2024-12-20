@@ -4,3 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 nltk
+--extra-index-url=https://pypi.org/simple
